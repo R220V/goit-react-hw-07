@@ -1,0 +1,11 @@
+.container {
+	padding: 0 16px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+  }
+  
+  .empty{
+	background: #4e4747;
+	border: 1px solid #48493e;
+  }

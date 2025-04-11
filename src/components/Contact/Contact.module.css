@@ -1,14 +1,20 @@
  .contact {
-	background-color: #e2f0f7; 
+	background-color: #e2f0f748; 
 	border: solid black 1px;
 	border-radius: 8px;
 	display: flex;
-	gap: 5px;
 	height: 80px;
-	width: 300px;
-	justify-content: space-around;
+	width: 400px;
+	justify-content: space-between;
 	align-items: center;
 	margin: 0 auto;
+	padding: 10px;
+  }
+
+  .contcont{
+	display: flex;
+	flex-direction: column;
+	gap:4px;
   }
    
   .info {
@@ -18,7 +24,7 @@
   
   .icon {
 	size: 22px;
-	color: teal;
+	color: rgba(2, 94, 94, 0.719);
   } 
   .del{
 	 display: flex;

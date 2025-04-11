@@ -1,13 +1,13 @@
 .form {
 	display: flex;
 	flex-direction: column;
-	background: #c0d5ec;
+	background: #ced7ff6c;
 	gap: 4px;
-	max-width: 300px;
+	max-width: 400px;
 	width: 100%;
-	margin: 0 auto;
+	margin: 20px auto;
 	padding: 10px;
-	border: 1px solid #aaa;
+	border: 2px solid #0d0b66;
 	border-radius: 4px;
   }
   

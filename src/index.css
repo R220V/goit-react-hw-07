@@ -3,6 +3,7 @@ body {
   max-width: 1600px;
 	display: flex;
   justify-content: center;
+  margin: 0 auto;
   align-items: center;
   font-family: sans-serif;
 
